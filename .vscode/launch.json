@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/DAKSHAYANI/operating_system_lab/Operating_system_lab/exp3",
+      "program": "/Users/DAKSHAYANI/operating_system_lab/Operating_system_lab/exp3/build/Debug/outDebug"
+    }
+  ]
+}
